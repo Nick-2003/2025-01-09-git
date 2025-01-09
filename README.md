@@ -6,3 +6,4 @@
 - `git add <FILE>`: Add `<FILE>` to staging area
 - `git commit -m "MESSAGE"`: Create commit with changes in staging area with message `"MESSAGE"`
 - `git push`: Push committed changes to repository
+- `git pull`: 
