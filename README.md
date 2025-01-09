@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # 2025-01-09-Git
-=======
->>>>>>> b932164abfbb463507ce62bf565b3048906aa234
 
 - `git clone`: Does a 1 time download from Github to local computer
     - Ensure directory is not already a `git repo`
